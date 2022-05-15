@@ -2,6 +2,10 @@
 
 This is where you include your WebPart documentation.
 
+## SharePoint Framework Version
+
+1.10.0
+
 ### Building the code
 
 ```bash
